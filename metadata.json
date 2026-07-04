@@ -1,0 +1,6 @@
+{
+  "name": "Matt Williams Building Co.",
+  "description": "Premium Braunton-based building company specialising in professional masonry, general construction, and landscaping services in Devon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
